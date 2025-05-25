@@ -1278,3 +1278,4 @@ Commit on 2025-05-24 13:01:59: Add unit tests
 Commit on 2025-05-25 19:06:38: Add comments
 Commit on 2025-05-25 18:01:44: Add tests
 Commit on 2025-05-25 22:13:22: Improve error handling
+Commit on 2025-05-25 18:01:30: Fix memory leak
